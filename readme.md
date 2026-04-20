@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="200" height="200" alt="icon" src="https://github.com/user-attachments/assets/033d07e1-ed6e-4ab8-8eee-a72d217493bc" />
+  <img width="200" height="200" alt="Remove background project" src="https://github.com/user-attachments/assets/ce2ed3d6-d49e-44f5-a50f-461ba1bc12a5" />
+
 </p>
 
 <p align="center">
