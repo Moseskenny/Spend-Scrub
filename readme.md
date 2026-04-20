@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MosesKenny/SpendScrub/main/src/assets/logo-banner.png" alt="SpendScrub Logo" width="200" />
+  <img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/033d07e1-ed6e-4ab8-8eee-a72d217493bc" />
+" alt="SpendScrub Logo" width="200" />
 </p>
 
 <p align="center">
