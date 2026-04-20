@@ -10,14 +10,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active_Development-emerald?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Platform-Windows_%7C_macOS-white?style=for-the-badge&logo=windows" alt="Platforms" />
+  <img src="https://img.shields.io/badge/Platform-Windows_%7C_macOS_%7C_Linux-white?style=for-the-badge" alt="Platforms" />
   <img src="https://img.shields.io/badge/Stack-React_|_Tauri_|_Rust-orange?style=for-the-badge" alt="Stack" />
 </p>
 
 ---
 
 ## 🛡️ Identity & Philosophy
-SpendScrub is built for those who demand a premium aesthetic without compromising their financial privacy. Inspired by the sharp, high-contrast design language of brands like **Nike** and **Puma**, SpendScrub treats money tracking like a performance sport—fast, precise, and sleek.
+SpendScrub is built for those who demand a premium aesthetic without compromising their financial privacy. Spend-Scrub treats money tracking like a performance sport—fast, precise, and sleek.
 
 Unlike traditional finance apps, SpendScrub is **Local-First**. Your data never hits a central server. Everything stays on your device, encrypted and under your control.
 
@@ -67,4 +67,4 @@ Copyright © 2026 Moses Kenny.
 
 **SpendScrub is a proprietary application.** This repository serves as a portfolio showcase of the application's architecture, design, and development progress. The source code is not available for public distribution, modification, or commercial use at this time.
 
-*SpendScrub is targeted for a Microsoft Store release following the successful launch of ToolSuite.*
+
