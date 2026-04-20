@@ -46,10 +46,10 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 SpendScrub is a showcase of modern, cross-platform engineering:
 
 * **Frontend:** React (Vite) + TypeScript.
-* **Styling:** TailwindCSS (Strictly Dark-Mode by default).
+* **Styling:** TailwindCSS 
 * **Core:** Tauri (Rust-based bridge for native performance and security).
 * **Persistence:** Dexie.js (IndexedDB) with a custom multi-versioned schema.
-* **Deployment:** CI/CD via GitHub Actions with a multi-platform build matrix (Windows/macOS).
+* **Deployment:** CI/CD via GitHub Actions with a multi-platform build matrix (Windows/macOS/Linux).
 
 ---
 
