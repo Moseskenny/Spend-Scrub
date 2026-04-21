@@ -74,21 +74,22 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 
 
 ## **Mobile**:
-
+<p align="center">
 <img width="390" height="844" alt="Screenshot_20260421_133041" src="https://github.com/user-attachments/assets/b56807e3-a446-4259-898b-68642cfed802" />
 <img width="390" height="844" alt="Screenshot_20260421_133031" src="https://github.com/user-attachments/assets/278f9df0-7e82-487b-aa3a-a8abb93e3030" />
 <img width="390" height="844" alt="Screenshot_20260421_133025" src="https://github.com/user-attachments/assets/75722edd-0a0b-487d-b586-149f94128868" />
 <img width="390" height="844" alt="Screenshot_20260421_132905" src="https://github.com/user-attachments/assets/7cd00531-91f7-41ca-bba8-18c8a9cca480" />
 <img width="390" height="844" alt="Screenshot_20260421_132821" src="https://github.com/user-attachments/assets/85e70061-21a4-42c0-84c1-ac0adde40243" />
+</p>
 
 ## **Mobile(Light theme)** :
-
+<p align="center">
 <img width="390" height="844" alt="Screenshot_20260421_132945" src="https://github.com/user-attachments/assets/8c124b5c-0d92-4100-a2ec-130ba89cefa8" />
 <img width="390" height="844" alt="Screenshot_20260421_132938" src="https://github.com/user-attachments/assets/6a9f0e85-cbad-4b52-8c06-b59fa6d9c0f7" />
 <img width="390" height="844" alt="Screenshot_20260421_132929" src="https://github.com/user-attachments/assets/6cd5c5f2-18fb-41c8-942c-8b62a66d0098" />
 <img width="390" height="844" alt="Screenshot_20260421_132924" src="https://github.com/user-attachments/assets/cf3ea4f7-9dc1-4e98-ad88-8f6e54337ec2" />
 <img width="390" height="844" alt="Screenshot_20260421_132909" src="https://github.com/user-attachments/assets/b7b43559-c8bd-4ee4-958a-495b4fec6d38" />
-
+</p>
 
 
 
