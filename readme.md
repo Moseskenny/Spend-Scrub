@@ -75,11 +75,11 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 
 ## **Mobile**:
 
-<img width="1080" height="2400" alt="Screenshot_20260421_133041" src="https://github.com/user-attachments/assets/b56807e3-a446-4259-898b-68642cfed802" />
-<img width="1080" height="2400" alt="Screenshot_20260421_133031" src="https://github.com/user-attachments/assets/278f9df0-7e82-487b-aa3a-a8abb93e3030" />
-<img width="1080" height="2400" alt="Screenshot_20260421_133025" src="https://github.com/user-attachments/assets/75722edd-0a0b-487d-b586-149f94128868" />
-<img width="1080" height="2400" alt="Screenshot_20260421_132905" src="https://github.com/user-attachments/assets/7cd00531-91f7-41ca-bba8-18c8a9cca480" />
-<img width="1080" height="2400" alt="Screenshot_20260421_132821" src="https://github.com/user-attachments/assets/85e70061-21a4-42c0-84c1-ac0adde40243" />
+<img width="390" height="844" alt="Screenshot_20260421_133041" src="https://github.com/user-attachments/assets/b56807e3-a446-4259-898b-68642cfed802" />
+<img width="390" height="844" alt="Screenshot_20260421_133031" src="https://github.com/user-attachments/assets/278f9df0-7e82-487b-aa3a-a8abb93e3030" />
+<img width="390" height="844" alt="Screenshot_20260421_133025" src="https://github.com/user-attachments/assets/75722edd-0a0b-487d-b586-149f94128868" />
+<img width="390" height="844" alt="Screenshot_20260421_132905" src="https://github.com/user-attachments/assets/7cd00531-91f7-41ca-bba8-18c8a9cca480" />
+<img width="390" height="844" alt="Screenshot_20260421_132821" src="https://github.com/user-attachments/assets/85e70061-21a4-42c0-84c1-ac0adde40243" />
 
 ## **Mobile(Light theme)** :
 
