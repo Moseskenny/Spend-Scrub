@@ -42,6 +42,17 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 
 ---
 
+## 🛠️ Technical Architecture
+SpendScrub is a showcase of modern, cross-platform engineering:
+
+* **Frontend:** React (Vite) + TypeScript.
+* **Styling:** TailwindCSS 
+* **Core:** Tauri (Rust-based bridge for native performance and security).
+* **Persistence:** Dexie.js (IndexedDB) with a custom multi-versioned schema.
+* **Deployment:** CI/CD via GitHub Actions with a multi-platform build matrix (Windows/macOS/Linux).
+
+---
+
 ### PREVIEW
 
 ## **PC** :
@@ -90,18 +101,6 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 <img width="390" height="844" alt="Screenshot_20260421_132924" src="https://github.com/user-attachments/assets/cf3ea4f7-9dc1-4e98-ad88-8f6e54337ec2" />
 <img width="390" height="844" alt="Screenshot_20260421_132909" src="https://github.com/user-attachments/assets/b7b43559-c8bd-4ee4-958a-495b4fec6d38" />
 </p>
-
-
-
-
-## 🛠️ Technical Architecture
-SpendScrub is a showcase of modern, cross-platform engineering:
-
-* **Frontend:** React (Vite) + TypeScript.
-* **Styling:** TailwindCSS 
-* **Core:** Tauri (Rust-based bridge for native performance and security).
-* **Persistence:** Dexie.js (IndexedDB) with a custom multi-versioned schema.
-* **Deployment:** CI/CD via GitHub Actions with a multi-platform build matrix (Windows/macOS/Linux).
 
 ---
 
