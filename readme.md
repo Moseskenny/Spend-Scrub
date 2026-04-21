@@ -113,6 +113,13 @@ While the core experience is focused on individual tracking, the following featu
 
 ---
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Moseskenny?color=ea4aaa&style=flat-square)](https://github.com/sponsors/Moseskenny)
+
+> [!IMPORTANT]
+> **Donations are entirely optional.** ToolSuite is free software and will remain free for everyone. Your support, in any form (even just a star!), is deeply appreciated!
+
+---
+
 ## 🔒 License & Usage
 Copyright © 2026 Moses Kenny.
 
