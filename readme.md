@@ -52,21 +52,23 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 
 <img width="1920" height="1040" alt="magicdark2" src="https://github.com/user-attachments/assets/1b1c436b-7bea-478a-a4da-3ede9340072c" />
 
-<img width="1920" height="1040" alt="settings light" src="https://github.com/user-attachments/assets/8bfe094e-336f-46f8-8ac8-6c163d815011" />
-
 <img width="1920" height="1040" alt="darktable" src="https://github.com/user-attachments/assets/fbdc0a2f-bdc0-4270-845d-8137a052efda" />
 
-<img width="1920" height="1040" alt="lighttable" src="https://github.com/user-attachments/assets/f8927f78-4319-4435-95ce-ddc76fecfbde" />
-
 <img width="1920" height="1040" alt="analdark" src="https://github.com/user-attachments/assets/dcdffd09-fc66-4f99-aada-fda3b5c60cc1" />
+
+<img width="1920" height="1040" alt="datadark" src="https://github.com/user-attachments/assets/01d794c6-7176-4faa-9d8b-f51833400408" />
+
+**PC(Light Theme)** :
+
+<img width="1920" height="1040" alt="settings light" src="https://github.com/user-attachments/assets/8bfe094e-336f-46f8-8ac8-6c163d815011" />
+
+<img width="1920" height="1040" alt="lighttable" src="https://github.com/user-attachments/assets/f8927f78-4319-4435-95ce-ddc76fecfbde" />
 
 <img width="1920" height="1040" alt="lightanal" src="https://github.com/user-attachments/assets/bbac01bf-c11b-4b6b-81f8-c9a84e05005f" />
 
 <img width="1920" height="1040" alt="lightedit" src="https://github.com/user-attachments/assets/07e7def8-7fb9-4990-b081-3eb2a3fe3cc2" />
 
 <img width="1920" height="1040" alt="categlight" src="https://github.com/user-attachments/assets/8beb6580-0465-4d84-a08e-348cd6a968ec" />
-
-<img width="1920" height="1040" alt="datadark" src="https://github.com/user-attachments/assets/01d794c6-7176-4faa-9d8b-f51833400408" />
 
 <img width="1920" height="1040" alt="datalight" src="https://github.com/user-attachments/assets/4ce96763-d2dd-47b7-a0a0-d80ae1f4af15" />
 
