@@ -42,9 +42,9 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 
 ---
 
-## PREVIEW
+### PREVIEW
 
-**PC** :
+## **PC** :
 
 <img width="1920" height="1040" alt="welcome" src="https://github.com/user-attachments/assets/9b3b0da1-672f-4ed6-83c3-72af1ebd1522" />
 
@@ -58,7 +58,7 @@ Real-time tracking across multiple accounts (Cash, Digital Wallets, Bank). The a
 
 <img width="1920" height="1040" alt="datadark" src="https://github.com/user-attachments/assets/01d794c6-7176-4faa-9d8b-f51833400408" />
 
-**PC(Light Theme)** :
+## **PC(Light Theme)** :
 
 <img width="1920" height="1040" alt="settings light" src="https://github.com/user-attachments/assets/8bfe094e-336f-46f8-8ac8-6c163d815011" />
 
