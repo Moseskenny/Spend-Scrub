@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  [![GitHub Sponsors](https://img.shields.io/github/sponsors/Moseskenny?color=ea4aaa&style=flat-square)](https://github.com/sponsors/Moseskenny)
   <img src="https://img.shields.io/badge/Status-Active_Development-emerald?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Platform-Windows_%7C_macOS_%7C_Linux-white?style=for-the-badge" alt="Platforms" />
   <img src="https://img.shields.io/badge/Stack-React_|_Tauri_|_Rust-orange?style=for-the-badge" alt="Stack" />
